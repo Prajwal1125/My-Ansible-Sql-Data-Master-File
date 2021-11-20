@@ -1,0 +1,14 @@
+---
+- students:
+ 
+  - name: ravi
+    phone: 8988298
+    email: ravi@gmail.com
+
+  - name: akhil
+    phone: 8824257
+    email: akhil@gmail.com
+
+  - name: ukey
+    phone: 89765654
+    email: ukey@gmail.com
